@@ -7,30 +7,31 @@ In this competition, one has to use the knowledge of machine learning, deep lear
 
 Dataset Description:
 
-Train.csv - 21000 rows x 15 columns (Includes Per Person Price Column as Target variable)
-Test.csv - 9000 rows x 14 columns (Doesn't include the Target Variable)
-Sample Submission.csv - Please check the Evaluation section for more details on how to generate a valid submission
+* Train.csv - 21000 rows x 15 columns (Includes Per Person Price Column as Target variable)
+* Test.csv - 9000 rows x 14 columns (Doesn't include the Target Variable)
+* Sample Submission.csv - Please check the Evaluation section for more details on how to generate a valid submission
  
 
 Attributes:
 
 * Uniq Id - Unique Identifier per row sample
 * Package Name - Name of the tour package
-Package Type - Type of the tour package
-Destination - A destination place
-Itinerary - complete itinerary
-Places Covered - covered places in the itinerary
-Travel Date - Date of travel
-Hotel Details - Details of the hotel stay
-Start City - Start place for the travel
-Airline - Flight details
-Flight Stops - Intermediate stops if any
-Meals - Inflight meals or services
-Sightseeing Places Covered - Itinerary details regarding sightseeing
-Cancellation Rules - Cancellation policy as per travel company
-Per Person Price - Price of the tour package per person (Target Column)
+* Package Type - Type of the tour package
+* Destination - A destination place
+* Itinerary - complete itinerary
+* Places Covered - covered places in the itinerary
+* Travel Date - Date of travel
+* Hotel Details - Details of the hotel stay
+* Start City - Start place for the travel
+* Airline - Flight details
+* Flight Stops - Intermediate stops if any
+* Meals - Inflight meals or services
+* Sightseeing Places Covered - Itinerary details regarding sightseeing
+* Cancellation Rules - Cancellation policy as per travel company
+* Per Person Price - Price of the tour package per person (Target Column)
+
 Skills:
 
-Advanced Regression Modeling
-Feature Engineering, Ensemble Modeling
-Optimizing RMSLE(Root Mean Squared Log Error) as a metric to generalize well on unseen data
+* Advanced Regression Modeling
+* Feature Engineering, Ensemble Modeling
+* Optimizing RMSLE(Root Mean Squared Log Error) as a metric to generalize well on unseen data
