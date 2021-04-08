@@ -14,8 +14,8 @@ Sample Submission.csv - Please check the Evaluation section for more details on 
 
 Attributes:
 
-Uniq Id - Unique Identifier per row sample
-Package Name - Name of the tour package
+* Uniq Id - Unique Identifier per row sample
+* Package Name - Name of the tour package
 Package Type - Type of the tour package
 Destination - A destination place
 Itinerary - complete itinerary
